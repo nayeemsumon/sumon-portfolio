@@ -23,6 +23,7 @@ h1 {
 }
 section {
   height: 500px;
+  padding-bottom: 150px;
 }
 .link-button {
   text-decoration: none;
@@ -31,4 +32,9 @@ section {
   border-radius: 5px;
   color: aliceblue;
   font-weight: 700;
+}
+.dream-bg {
+  background-image: url("dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
