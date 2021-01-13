@@ -38,3 +38,23 @@ section {
   background-repeat: no-repeat;
   background-position: right;
 }
+.single-experience {
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 10px;
+  height: 60%;
+  background-color: rgb(255, 255, 255);
+}
+#full-stack {
+  border-left: 10px solid;
+  border-image: linear-gradient(180deg, rgb(233, 86, 18), rgb(248, 187, 108));
+  border-image-slice: 1;
+}
+#baby-stack {
+  border-left: 10px solid;
+  border-image: linear-gradient(180deg, rgb(161, 151, 2), rgb(252, 244, 133));
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
+  font-size: 15px;
+}
